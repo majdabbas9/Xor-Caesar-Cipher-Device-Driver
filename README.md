@@ -9,9 +9,6 @@
       <li>you can add/remove to/from the  data</li>
       </ul>
     </li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>other details in the pdf</li>
   </ul>
 </body>
